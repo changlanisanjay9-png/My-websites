@@ -1,0 +1,38 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "b2TeUwag16JGn6NtvCqU6"
+uri = "file://artifacts/natkhat-nx/public/images/lehenga-1.png"
+type = "image"
+title = "Pink bridal lehenga gold embroidery"
+
+[[generated]]
+id = "J9gq-qR9DgiIy-CpIoz9v"
+uri = "file://artifacts/natkhat-nx/public/images/anarkali-1.png"
+type = "image"
+title = "Rose pink Anarkali suit twirling"
+
+[[generated]]
+id = "EjctTB_wCjmXScIbe47KY"
+uri = "file://artifacts/natkhat-nx/public/images/suit-1.png"
+type = "image"
+title = "Blush pink silk salwar suit"
+
+[[generated]]
+id = "xnYa_-BhTCDS-2uyDBKyR"
+uri = "file://artifacts/natkhat-nx/public/images/kurta-1.png"
+type = "image"
+title = "Ivory and rose gold Kurta"
+
+[[generated]]
+id = "TKVA3m6rdn3PcT8Q4N9Mn"
+uri = "file://artifacts/natkhat-nx/public/images/featured-1.png"
+type = "image"
+title = "Deep rose bridal lehenga detail"
+
+[[generated]]
+id = "ythUe7zppOMyP9PdQklTM"
+uri = "file://artifacts/natkhat-nx/public/images/featured-2.png"
+type = "image"
+title = "Pastel floral Anarkali elegant"
